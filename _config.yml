@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+
+# Site settings
+title: huhu    				  	#你博客的标题
+SEOTitle: 歆桐 | huhu    	 #显示在浏览器上搜索的时候显示的标题
+header-img: img/1.jpg  	#显示在首页的背景图片
+email: zwxy@mail.ustc.edu.cn	
+description: "huhuhuhu"  			 #网站介绍
+#keyword: " " #关键词
+url: "https://huhuzwxy.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
